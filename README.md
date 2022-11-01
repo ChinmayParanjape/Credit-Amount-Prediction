@@ -1,5 +1,5 @@
 # Credit-Amount-Prediction
-## Objective of the problem: The objective of the problem is to predict the values of credit_amount variable as per serial number variable. Please view the sample submissions file for better understanding. The solution must be presented in the form of a csv with predicted values of the response variable credit_amount.
+## The objective of the problem is to predict the values of credit_amount variable as per serial number variable. Please view the sample submissions file for better understanding. The solution must be presented in the form of a csv with predicted values of the response variable credit_amount.
 
 # Data Information.
 The data given is of credit records of individuals with certain attributes. Please go through following to understand the variables involved:
